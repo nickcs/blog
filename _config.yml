@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Nick Nance
 tagline:          Thoughts on CoSo Engineering
-url:              http://nickcs.github.io/poole/
+url:              http://nickcs.github.io/blog/
 paginate:         1
 baseurl:          /
 author:
