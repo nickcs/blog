@@ -9,9 +9,9 @@ relative_permalinks: true
 # Setup
 title:            Nick Nance
 tagline:          Thoughts on CoSo Engineering
-url:              http://nickcs.github.io/blog/
+url:              http://nickcs.github.io/
 paginate:         1
-baseurl:          /
+baseurl:          http://nickcs.github.io/blog/
 author:
   name:           Nick Nance
   url:            https://github.com/nickcs
