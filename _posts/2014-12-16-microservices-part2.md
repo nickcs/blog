@@ -12,9 +12,9 @@ Let's get started looking at a simple logging service that can write any logging
 The log writer depends on the following modules:
 
 ```
-var config = require('config'),
-    amqp = require('amqp'),
-    winston = require('winston');
+var config = require('config');
+var amqp = require('amqp');
+var winston = require('winston');
 ```
 
 * config - The node-config module is an easy way to externalize node configuration settings without having to concern myself with the node environment the application is running in.
