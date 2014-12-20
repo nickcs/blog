@@ -13,10 +13,8 @@ The log writer depends on the following modules:
 
 ```
 var config = require('config'),
-
     amqp = require('amqp'),
-    
-    winston = require('winston')
+    winston = require('winston');
 ```
 
 * config - The node-config module is an easy way to externalize node configuration settings without having to concern myself with the node environment the application is running in.
