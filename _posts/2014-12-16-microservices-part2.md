@@ -13,7 +13,9 @@ The log writer depends on the following modules:
 
 ```
 var config = require('config'),
+
     amqp = require('amqp'),
+    
     winston = require('winston')
 ```
 
