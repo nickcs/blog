@@ -11,7 +11,7 @@ Let's get started looking at a simple logging service that can write any logging
 
 The log writer depends on the following modules:
 
-```javascript
+```
 var config = require('config'),
     amqp = require('amqp'),
     winston = require('winston')
