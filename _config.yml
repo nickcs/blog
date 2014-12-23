@@ -11,7 +11,7 @@ title:            Nick Nance
 tagline:          Thoughts on CoSo Engineering
 url:              http://nickcs.github.io
 paginate:         1
-baseurl:          http://nickcs.github.io
+baseurl:          http://nickcs.github.io/
 author:
   name:           Nick Nance
   url:            https://github.com/nickcs
